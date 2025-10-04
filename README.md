@@ -1,4 +1,3 @@
-# 🌐 Portfolio Website
 **Ahmad Sahl Pahlevi**
 
 Ini adalah portfolio website saya dan menulis tentang **about, resume**, dll.  
