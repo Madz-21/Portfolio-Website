@@ -1,26 +1,27 @@
-# 🌐 Personal-Web
-**Fatmah Rohmah Tika**
+# 🌐 Portfolio Website
+**Ahmad Sahl Pahlevi**
 
-Ini adalah personal website saya untuk menampilkan **portfolio** dan menulis tentang **web development**.  
+Ini adalah portfolio website saya dan menulis tentang **about, resume**, dll.  
 
 ---
 
 ## 🔗 Links
-- [My Portfolio]()
-- [UI/UX Design Resources](https://www.figma.com/design/DewvqFtvxVzu9n8eVhq6Pq/Portofolio-Web?node-id=0-1&t=DgQUOxyr060rzVUc-1)
+- [My Portfolio](https://leviportfolio.vercel.app)
 
 ---
 
 ## 📱 Social Media
-- [GitHub](https://github.com/ftmahrhmt)
-- [LinkedIn]()
-- dll...
+- [GitHub](https://github.com/madz-21)
+- [LinkedIn](https://linkedin.com/in/ahmad-sahl-p)
 
 ---
 
 ## 📄 Pages
-- Home  
-- About  
+- About
+- Resume
+- Portfolio
+- Blog
+- Contact
 
 ---
 
@@ -32,4 +33,4 @@ Ini adalah personal website saya untuk menampilkan **portfolio** dan menulis ten
 ---
 
 ## 👀 Preview
-![Website Preview]()
+![Website Preview](https://leviportfolio.vercel.app)
