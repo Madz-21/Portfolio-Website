@@ -33,4 +33,4 @@ Ini adalah portfolio website saya dan menulis tentang **about, resume**, dll.
 ---
 
 ## 👀 Preview
-![Website Preview](https://leviportfolio.vercel.app)
+![Website Preview](Screenshot.png)
